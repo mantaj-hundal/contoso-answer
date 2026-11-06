@@ -1,0 +1,22 @@
+model,formula,rows,players,events,parameters,events_per_slope,converged,full_rank,condition_number,max_vif,warnings,covariance,max_abs_coefficient
+retention_usage,retained ~ log2_optimizer + log2_coach + log2_agent + active_days + initial_paid,300,300,180,6,36.0,True,True,47.525589492342135,5.280189979944595,,HC1,3.229671118453667
+conversion_usage,later_conversion ~ log2_optimizer + log2_coach + log2_agent + active_days,232,232,33,5,8.25,True,True,46.872384685391985,5.254775471168968,,HC1,6.736130067955387
+retention_optimizer_single_usage,retained ~ log2_optimizer + active_days + initial_paid,300,300,180,4,60.0,True,True,33.131294094815935,2.158819688176665,,HC1,1.9256838840651762
+retention_coach_single_usage,retained ~ log2_coach + active_days + initial_paid,300,300,180,4,60.0,True,True,23.283703718739623,2.0125969815120337,,HC1,2.141263315925865
+retention_agent_single_usage,retained ~ log2_agent + active_days + initial_paid,300,300,180,4,60.0,True,True,19.04452430472844,1.7408314450271851,,HC1,1.8662474896880887
+retention_usage_initial_free_only,retained ~ log2_optimizer + log2_coach + log2_agent + active_days,232,232,136,5,34.0,True,True,46.872384685391985,5.254775471168968,,HC1,3.1421056217836685
+conversion_optimizer_single_usage,later_conversion ~ log2_optimizer + active_days,232,232,33,3,16.5,True,True,32.58580357896503,2.1380635297561787,,HC1,4.480300826326524
+conversion_coach_single_usage,later_conversion ~ log2_coach + active_days,232,232,33,3,16.5,True,True,22.606283208739164,2.021253298665862,,HC1,3.80749237207933
+conversion_agent_single_usage,later_conversion ~ log2_agent + active_days,232,232,33,3,16.5,True,True,18.266364114693644,1.6979728690567082,,HC1,3.6986209541241744
+retention_optimizer_errors,retained ~ optimizer_error_10pp + log2_optimizer + active_days + initial_paid,300,300,180,5,45.0,True,True,34.324911659363494,2.158944521313484,,HC1,1.9271430047859623
+retention_coach_errors,retained ~ coach_error_10pp + log2_coach + active_days + initial_paid,298,298,180,5,45.0,True,True,24.362131494484295,1.9727609263669237,,HC1,2.044379461264646
+retention_agent_errors,retained ~ agent_error_10pp + log2_agent + active_days + initial_paid,289,289,178,5,44.5,True,True,20.715895821521993,1.7840141235230247,,HC1,1.770248179760172
+conversion_optimizer_errors,later_conversion ~ optimizer_error_10pp + log2_optimizer + active_days,232,232,33,4,11.0,True,True,34.069735569299546,2.1456035478011293,,HC1,4.583714634631075
+conversion_coach_errors,later_conversion ~ coach_error_10pp + log2_coach + active_days,231,231,33,4,11.0,True,True,23.46406174520773,1.9907852516815256,,HC1,3.9146084494275244
+conversion_agent_errors,later_conversion ~ agent_error_10pp + log2_agent + active_days,221,221,32,4,10.666666666666666,True,True,20.08861422793787,1.741510398121734,,HC1,3.971373345975081
+retention_weekend_preference,"retained ~ C(weekend_preference, Treatment(reference='Weekday')) + active_days + initial_paid",300,300,180,5,45.0,True,True,22.34780726343634,1.8222498503303992,,HC1,2.2752889000506746
+conversion_weekend_preference,"later_conversion ~ C(weekend_preference, Treatment(reference='Weekday')) + active_days",232,232,33,4,11.0,True,True,22.168903182271755,1.8311689469128392,,HC1,4.174607006355262
+retention_feature_preference,retained ~ C(feature_preference) + active_days + initial_paid,297,297,177,5,44.25,True,True,19.36843005844372,1.3867328014661697,,HC1,1.783574289802675
+conversion_feature_preference,later_conversion ~ C(feature_preference) + active_days,230,230,32,4,10.666666666666666,True,True,20.60539332401159,1.1149481592716595,,HC1,3.3875841059760883
+daily_conversion_hazard,converted_today ~ log_tenure_day + log2_optimizer + log2_coach + log2_agent + active_days,11162,232,33,6,6.6,True,True,74.56345301363174,5.388129066146731,,player-clustered,7.7210929769445125
+daily_conversion_hazard_quadratic_time,converted_today ~ log_tenure_centered + log2_optimizer + log2_coach + log2_agent + active_days + log_tenure_squared,11162,232,33,7,5.5,True,True,47.03594454604443,5.388273237218933,,player-clustered,10.065819662010146

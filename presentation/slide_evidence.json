@@ -1,0 +1,128 @@
+[
+  {
+    "slide": 1,
+    "title": "Contoso AI Gaming Companion",
+    "section": "Leadership discussion",
+    "sources": [],
+    "notes": "Introduce this synthetic interview exercise. Slides 1\u20139 support the leadership discussion. Slides 10\u201312 support a technical discussion together with the notebook code walkthrough. The decision is where to investigate retention and upgrade opportunities.",
+    "included": true
+  },
+  {
+    "slide": 2,
+    "title": "Prioritize a measured onboarding experiment",
+    "section": "Leadership discussion",
+    "sources": [
+      "primary",
+      "timing"
+    ],
+    "notes": "These recommendations are hypotheses for real-world testing. Coach and Agent usage have positive adjusted retention associations. Optimizer usage has the clearest adjusted conversion association. Validate on real cohorts before changing spend or product policy.",
+    "included": true
+  },
+  {
+    "slide": 3,
+    "title": "The starting cohort and mandatory outcomes",
+    "section": "Leadership discussion",
+    "sources": [
+      "accounts",
+      "conversion",
+      "cancellations",
+      "cancellation_groups"
+    ],
+    "notes": "Count each day-0 player once. Initial plan is observed at the end of day 0. The 33 upgrades increase the ever-Paid roster to 101. The 16 cancellations include 13 initially Paid players and 3 converters. Unequal Paid exposure prevents interpreting this as standardized monthly churn.",
+    "included": true
+  },
+  {
+    "slide": 4,
+    "title": "Retention declines across the first 60 days",
+    "section": "Leadership discussion",
+    "sources": [
+      "weekly_retention",
+      "daily_retention"
+    ],
+    "notes": "Weekly retention means any activity in the specified tenure week. Daily retention means activity on that exact day. Both use the original 300 players. The partial final week is excluded from this full-week line. Week 1 is mechanically 100% because it includes day 0.",
+    "included": true
+  },
+  {
+    "slide": 5,
+    "title": "Coach and Agent use correlate with retention",
+    "section": "Leadership discussion",
+    "sources": [
+      "primary"
+    ],
+    "notes": "Predictors are first-week attempts. Retention is activity during days 28\u201334. Models adjust for all three feature volumes, active days and initial plan where applicable. Odds ratios are per doubling of 1 plus attempts. These are associations, not percentage-point effects or causal lift.",
+    "included": true
+  },
+  {
+    "slide": 6,
+    "title": "Error-rate associations remain inconclusive",
+    "section": "Leadership discussion",
+    "sources": [
+      "primary",
+      "correlations"
+    ],
+    "notes": "Error rates divide errors by attempts. Each model controls its own feature volume and general activity. All six adjusted intervals include 1. Players with zero attempts have undefined rates and are excluded only from that feature model. This does not prove errors are harmless.",
+    "included": true
+  },
+  {
+    "slide": 7,
+    "title": "Weekend-oriented players have higher raw outcomes",
+    "section": "Leadership discussion",
+    "sources": [
+      "segments",
+      "segment_regressions"
+    ],
+    "notes": "Weekend preference compares active weekend days divided by 2 with active weekdays divided by 5. Retention populations are 109, 150 and 41. Conversion populations are 88, 112 and 32. Adjusted segment comparisons are uncertain after multiple-comparison adjustment.",
+    "included": true
+  },
+  {
+    "slide": 8,
+    "title": "The largest observed upgrade window is days 7\u201313",
+    "section": "Leadership discussion",
+    "sources": [
+      "timing",
+      "journey"
+    ],
+    "notes": "Eleven of 232 at-risk Free players upgraded during days 7\u201313. This is the largest observed grouped percentage. Among 33 eventual converters, median upgrade tenure is 24 days. Sparse events limit peak comparisons. An observed peak does not establish the best intervention date.",
+    "included": true
+  },
+  {
+    "slide": 9,
+    "title": "Actions for product, marketing and engineering",
+    "section": "Leadership discussion",
+    "sources": [
+      "primary",
+      "timing"
+    ],
+    "notes": "Product can test early feature discovery. Marketing can test contextual upgrade education. Engineering should log exposure, feature attempts, severity and billing events precisely. Data science should replicate on real cohorts and calculate prospective experiment power. Use randomized assignment and intent-to-treat outcomes.",
+    "included": true
+  },
+  {
+    "slide": 10,
+    "title": "Technical discussion: outcomes and timing",
+    "section": "Technical discussion",
+    "sources": [],
+    "notes": "Feature predictors use days 0\u20136. Retention is any activity during days 28\u201334. Conversion eligibility requires initially Free players who have not converted by day 6. No first-week conversions occur in this file. Missing activity is not cancellation. Coverage completeness relies on the source statement.",
+    "included": true
+  },
+  {
+    "slide": 11,
+    "title": "Separate logistic regressions for the two outcomes",
+    "section": "Technical discussion",
+    "sources": [
+      "primary",
+      "diagnostics"
+    ],
+    "notes": "Explain the logistic formulas in the notebook. Feature volumes are log2 of 1 plus attempts. HC1 uncertainty treats players as independent. The 12 primary feature slopes use Benjamini\u2013Hochberg q-values. Thirty-three conversion events limit precision. Error models add the feature error rate with volume adjustment.",
+    "included": true
+  },
+  {
+    "slide": 12,
+    "title": "Validation, evaluation and code walkthrough",
+    "section": "Technical discussion",
+    "sources": [
+      "diagnostics"
+    ],
+    "notes": "Walk through analysis.ipynb or its exact code export, analysis.py. Source-ledger checks verify totals, outcomes and risk sets. Independent SciPy optimizers match both primary usage regressions. All 21 final fits converged. Tiny balanced feature groups remain descriptive only. Prediction would require player-level holdout evaluation; causal product decisions require randomized tests.",
+    "included": true
+  }
+]

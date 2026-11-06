@@ -1,0 +1,28 @@
+{
+  "input": "data/contoso_gaming_pc_app_output.csv",
+  "input_sha256": "2efe179b13bd3dba1cbc6817e40395db4f544f76807f82001156c1d0da686067",
+  "environment": {
+    "interpreter": "<original-workstation interpreter; rerun records sys.executable>",
+    "Python": "3.12.16",
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "output_folder": "outputs/cleaning",
+  "raw_rows": 7970,
+  "clean_activity_rows": 7970,
+  "players": 300,
+  "calendar_rows": 18000,
+  "added_calendar_rows": 10030,
+  "source_value_edits": 0,
+  "excluded_source_rows": 0,
+  "excluded_players": 0,
+  "quality_checks_passed": 29,
+  "reconciliation_checks_passed": 20,
+  "audit_entries": 102800,
+  "coverage_basis": "Pinned source README declares complete synthetic data through each player day 59; cutoff 2025-05-05",
+  "readiness": "Prepared for descriptive mandatory questions with documented limitations; aggregate answers not calculated"
+}

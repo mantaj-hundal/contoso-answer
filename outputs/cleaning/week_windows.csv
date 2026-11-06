@@ -1,0 +1,10 @@
+tenure_week,start_day_inclusive,end_day_inclusive,days_in_window,is_partial_week
+1,0,6,7,False
+2,7,13,7,False
+3,14,20,7,False
+4,21,27,7,False
+5,28,34,7,False
+6,35,41,7,False
+7,42,48,7,False
+8,49,55,7,False
+9,56,59,4,True

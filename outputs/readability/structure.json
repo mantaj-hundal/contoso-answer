@@ -1,0 +1,9 @@
+{
+  "original_code_cells": 23,
+  "original_max_lines": 118,
+  "refactored_code_cells": 45,
+  "refactored_max_lines": 25,
+  "refactored_median_lines": 9,
+  "helper_functions": 41,
+  "stateful_classes": 2
+}

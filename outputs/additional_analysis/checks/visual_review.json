@@ -1,0 +1,12 @@
+{
+  "package_layout_chart_validation": "passed",
+  "powerpoint_ui_tested": false,
+  "deck": "presentation/output/contoso_growth_analysis.pptx",
+  "analytical_figures_reviewed": [
+    "feature_correlations.png",
+    "adjusted_feature_associations.png",
+    "conversion_timing_and_journey.png"
+  ],
+  "date": "2026-11-05",
+  "slides_individually_reviewed": 12
+}

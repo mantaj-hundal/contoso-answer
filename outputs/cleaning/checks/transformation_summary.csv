@@ -1,0 +1,7 @@
+rule,reason,affected_rows,affected_players,rows_before,rows_after,players_before,players_after,cohort_denominator_change,detail
+source_lineage,Trace every source record without modifying inputs,7970,300,7970,7970,300,300,0,Added 1-based CSV data-record ID; no filtering or source-value edits
+typed_dates_and_tenure,Add analysis-safe dates and verify tenure without replacing source fields,7970,300,7970,7970,300,300,0,"Explicit %m/%d/%Y parsing; original date, startdate and DaysSinceStart retained"
+activity_derivations,Prepare daily/weekly activity and feature denominators,7970,300,7970,7970,300,300,0,Source-row presence establishes activity; no aggregation of business outcomes
+sort_activity,Order records for reproducible within-player timelines,7970,300,7970,7970,300,300,0,Sorted by userid and activity_date; source_row_id retains original ordering
+player_roster_and_events,Prepare stable cohort denominators and event dates without answering aggregate questions,7970,300,7970,300,300,300,0,Observed player-day -> player; day0/event join one_to_one; unmatched=0; multiplied=0; no excluded players
+retention_calendar,Preserve full day0 cohort for each tenure day without inventing activity or billing,10030,300,7970,18000,300,300,0,Player x 60 tenure days; observed matches=7970; added inactive calendar rows=10030; source rows unmatched=0; multiplied=0

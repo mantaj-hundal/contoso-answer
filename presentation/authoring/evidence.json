@@ -1,0 +1,1922 @@
+{
+  "accounts": [
+    {
+      "initial_plan": "Free",
+      "new_players": 232
+    },
+    {
+      "initial_plan": "Paid",
+      "new_players": 68
+    }
+  ],
+  "daily_retention": [
+    {
+      "tenure_day": 0,
+      "active_players": 300,
+      "day0_cohort_players": 300,
+      "retention_pct": 100.0
+    },
+    {
+      "tenure_day": 1,
+      "active_players": 182,
+      "day0_cohort_players": 300,
+      "retention_pct": 60.6666666667
+    },
+    {
+      "tenure_day": 2,
+      "active_players": 188,
+      "day0_cohort_players": 300,
+      "retention_pct": 62.6666666667
+    },
+    {
+      "tenure_day": 3,
+      "active_players": 182,
+      "day0_cohort_players": 300,
+      "retention_pct": 60.6666666667
+    },
+    {
+      "tenure_day": 4,
+      "active_players": 192,
+      "day0_cohort_players": 300,
+      "retention_pct": 64.0
+    },
+    {
+      "tenure_day": 5,
+      "active_players": 192,
+      "day0_cohort_players": 300,
+      "retention_pct": 64.0
+    },
+    {
+      "tenure_day": 6,
+      "active_players": 176,
+      "day0_cohort_players": 300,
+      "retention_pct": 58.6666666667
+    },
+    {
+      "tenure_day": 7,
+      "active_players": 161,
+      "day0_cohort_players": 300,
+      "retention_pct": 53.6666666667
+    },
+    {
+      "tenure_day": 8,
+      "active_players": 159,
+      "day0_cohort_players": 300,
+      "retention_pct": 53.0
+    },
+    {
+      "tenure_day": 9,
+      "active_players": 167,
+      "day0_cohort_players": 300,
+      "retention_pct": 55.6666666667
+    },
+    {
+      "tenure_day": 10,
+      "active_players": 176,
+      "day0_cohort_players": 300,
+      "retention_pct": 58.6666666667
+    },
+    {
+      "tenure_day": 11,
+      "active_players": 168,
+      "day0_cohort_players": 300,
+      "retention_pct": 56.0
+    },
+    {
+      "tenure_day": 12,
+      "active_players": 163,
+      "day0_cohort_players": 300,
+      "retention_pct": 54.3333333333
+    },
+    {
+      "tenure_day": 13,
+      "active_players": 155,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.6666666667
+    },
+    {
+      "tenure_day": 14,
+      "active_players": 149,
+      "day0_cohort_players": 300,
+      "retention_pct": 49.6666666667
+    },
+    {
+      "tenure_day": 15,
+      "active_players": 143,
+      "day0_cohort_players": 300,
+      "retention_pct": 47.6666666667
+    },
+    {
+      "tenure_day": 16,
+      "active_players": 155,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.6666666667
+    },
+    {
+      "tenure_day": 17,
+      "active_players": 154,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.3333333333
+    },
+    {
+      "tenure_day": 18,
+      "active_players": 154,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.3333333333
+    },
+    {
+      "tenure_day": 19,
+      "active_players": 153,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.0
+    },
+    {
+      "tenure_day": 20,
+      "active_players": 154,
+      "day0_cohort_players": 300,
+      "retention_pct": 51.3333333333
+    },
+    {
+      "tenure_day": 21,
+      "active_players": 137,
+      "day0_cohort_players": 300,
+      "retention_pct": 45.6666666667
+    },
+    {
+      "tenure_day": 22,
+      "active_players": 150,
+      "day0_cohort_players": 300,
+      "retention_pct": 50.0
+    },
+    {
+      "tenure_day": 23,
+      "active_players": 144,
+      "day0_cohort_players": 300,
+      "retention_pct": 48.0
+    },
+    {
+      "tenure_day": 24,
+      "active_players": 151,
+      "day0_cohort_players": 300,
+      "retention_pct": 50.3333333333
+    },
+    {
+      "tenure_day": 25,
+      "active_players": 136,
+      "day0_cohort_players": 300,
+      "retention_pct": 45.3333333333
+    },
+    {
+      "tenure_day": 26,
+      "active_players": 129,
+      "day0_cohort_players": 300,
+      "retention_pct": 43.0
+    },
+    {
+      "tenure_day": 27,
+      "active_players": 142,
+      "day0_cohort_players": 300,
+      "retention_pct": 47.3333333333
+    },
+    {
+      "tenure_day": 28,
+      "active_players": 122,
+      "day0_cohort_players": 300,
+      "retention_pct": 40.6666666667
+    },
+    {
+      "tenure_day": 29,
+      "active_players": 120,
+      "day0_cohort_players": 300,
+      "retention_pct": 40.0
+    },
+    {
+      "tenure_day": 30,
+      "active_players": 121,
+      "day0_cohort_players": 300,
+      "retention_pct": 40.3333333333
+    },
+    {
+      "tenure_day": 31,
+      "active_players": 131,
+      "day0_cohort_players": 300,
+      "retention_pct": 43.6666666667
+    },
+    {
+      "tenure_day": 32,
+      "active_players": 125,
+      "day0_cohort_players": 300,
+      "retention_pct": 41.6666666667
+    },
+    {
+      "tenure_day": 33,
+      "active_players": 122,
+      "day0_cohort_players": 300,
+      "retention_pct": 40.6666666667
+    },
+    {
+      "tenure_day": 34,
+      "active_players": 123,
+      "day0_cohort_players": 300,
+      "retention_pct": 41.0
+    },
+    {
+      "tenure_day": 35,
+      "active_players": 102,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.0
+    },
+    {
+      "tenure_day": 36,
+      "active_players": 109,
+      "day0_cohort_players": 300,
+      "retention_pct": 36.3333333333
+    },
+    {
+      "tenure_day": 37,
+      "active_players": 110,
+      "day0_cohort_players": 300,
+      "retention_pct": 36.6666666667
+    },
+    {
+      "tenure_day": 38,
+      "active_players": 103,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.3333333333
+    },
+    {
+      "tenure_day": 39,
+      "active_players": 109,
+      "day0_cohort_players": 300,
+      "retention_pct": 36.3333333333
+    },
+    {
+      "tenure_day": 40,
+      "active_players": 124,
+      "day0_cohort_players": 300,
+      "retention_pct": 41.3333333333
+    },
+    {
+      "tenure_day": 41,
+      "active_players": 112,
+      "day0_cohort_players": 300,
+      "retention_pct": 37.3333333333
+    },
+    {
+      "tenure_day": 42,
+      "active_players": 108,
+      "day0_cohort_players": 300,
+      "retention_pct": 36.0
+    },
+    {
+      "tenure_day": 43,
+      "active_players": 103,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.3333333333
+    },
+    {
+      "tenure_day": 44,
+      "active_players": 102,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.0
+    },
+    {
+      "tenure_day": 45,
+      "active_players": 102,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.0
+    },
+    {
+      "tenure_day": 46,
+      "active_players": 105,
+      "day0_cohort_players": 300,
+      "retention_pct": 35.0
+    },
+    {
+      "tenure_day": 47,
+      "active_players": 102,
+      "day0_cohort_players": 300,
+      "retention_pct": 34.0
+    },
+    {
+      "tenure_day": 48,
+      "active_players": 98,
+      "day0_cohort_players": 300,
+      "retention_pct": 32.6666666667
+    },
+    {
+      "tenure_day": 49,
+      "active_players": 85,
+      "day0_cohort_players": 300,
+      "retention_pct": 28.3333333333
+    },
+    {
+      "tenure_day": 50,
+      "active_players": 89,
+      "day0_cohort_players": 300,
+      "retention_pct": 29.6666666667
+    },
+    {
+      "tenure_day": 51,
+      "active_players": 90,
+      "day0_cohort_players": 300,
+      "retention_pct": 30.0
+    },
+    {
+      "tenure_day": 52,
+      "active_players": 94,
+      "day0_cohort_players": 300,
+      "retention_pct": 31.3333333333
+    },
+    {
+      "tenure_day": 53,
+      "active_players": 98,
+      "day0_cohort_players": 300,
+      "retention_pct": 32.6666666667
+    },
+    {
+      "tenure_day": 54,
+      "active_players": 101,
+      "day0_cohort_players": 300,
+      "retention_pct": 33.6666666667
+    },
+    {
+      "tenure_day": 55,
+      "active_players": 87,
+      "day0_cohort_players": 300,
+      "retention_pct": 29.0
+    },
+    {
+      "tenure_day": 56,
+      "active_players": 89,
+      "day0_cohort_players": 300,
+      "retention_pct": 29.6666666667
+    },
+    {
+      "tenure_day": 57,
+      "active_players": 94,
+      "day0_cohort_players": 300,
+      "retention_pct": 31.3333333333
+    },
+    {
+      "tenure_day": 58,
+      "active_players": 91,
+      "day0_cohort_players": 300,
+      "retention_pct": 30.3333333333
+    },
+    {
+      "tenure_day": 59,
+      "active_players": 87,
+      "day0_cohort_players": 300,
+      "retention_pct": 29.0
+    }
+  ],
+  "weekly_retention": [
+    {
+      "tenure_week": 1,
+      "start_day_inclusive": 0,
+      "end_day_inclusive": 6,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 300,
+      "day0_cohort_players": 300,
+      "retention_pct": 100.0
+    },
+    {
+      "tenure_week": 2,
+      "start_day_inclusive": 7,
+      "end_day_inclusive": 13,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 260,
+      "day0_cohort_players": 300,
+      "retention_pct": 86.6666666667
+    },
+    {
+      "tenure_week": 3,
+      "start_day_inclusive": 14,
+      "end_day_inclusive": 20,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 226,
+      "day0_cohort_players": 300,
+      "retention_pct": 75.3333333333
+    },
+    {
+      "tenure_week": 4,
+      "start_day_inclusive": 21,
+      "end_day_inclusive": 27,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 212,
+      "day0_cohort_players": 300,
+      "retention_pct": 70.6666666667
+    },
+    {
+      "tenure_week": 5,
+      "start_day_inclusive": 28,
+      "end_day_inclusive": 34,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 180,
+      "day0_cohort_players": 300,
+      "retention_pct": 60.0
+    },
+    {
+      "tenure_week": 6,
+      "start_day_inclusive": 35,
+      "end_day_inclusive": 41,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 161,
+      "day0_cohort_players": 300,
+      "retention_pct": 53.6666666667
+    },
+    {
+      "tenure_week": 7,
+      "start_day_inclusive": 42,
+      "end_day_inclusive": 48,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 150,
+      "day0_cohort_players": 300,
+      "retention_pct": 50.0
+    },
+    {
+      "tenure_week": 8,
+      "start_day_inclusive": 49,
+      "end_day_inclusive": 55,
+      "days_in_window": 7,
+      "is_partial_week": false,
+      "active_players": 137,
+      "day0_cohort_players": 300,
+      "retention_pct": 45.6666666667
+    },
+    {
+      "tenure_week": 9,
+      "start_day_inclusive": 56,
+      "end_day_inclusive": 59,
+      "days_in_window": 4,
+      "is_partial_week": true,
+      "active_players": 123,
+      "day0_cohort_players": 300,
+      "retention_pct": 41.0
+    }
+  ],
+  "conversion": [
+    {
+      "initially_free_players": 232,
+      "converted_to_paid_players": 33,
+      "not_observed_converted_players": 199,
+      "conversion_pct": 14.224137931,
+      "tenure_window": "days 0\u201359; conversion after observed day-0 Free state"
+    }
+  ],
+  "cancellations": [
+    {
+      "ever_observed_paid_players": 101,
+      "explicitly_cancelled_players": 16,
+      "no_recorded_cancellation_players": 85
+    }
+  ],
+  "cancellation_groups": [
+    {
+      "initial_plan": "Free",
+      "ever_observed_paid_players": 33,
+      "explicitly_cancelled_players": 3
+    },
+    {
+      "initial_plan": "Paid",
+      "ever_observed_paid_players": 68,
+      "explicitly_cancelled_players": 13
+    }
+  ],
+  "primary": [
+    {
+      "model": "retention_usage",
+      "term": "log2_optimizer",
+      "coefficient": 0.2557426966,
+      "standard_error": 0.1592666946,
+      "odds_ratio": 1.2914203983,
+      "ci_low": 0.9451474907,
+      "ci_high": 1.7645570258,
+      "p_value": 0.1083285722,
+      "interpretation_ready": true,
+      "bh_q": 0.2166571445
+    },
+    {
+      "model": "retention_usage",
+      "term": "log2_coach",
+      "coefficient": 0.4147193301,
+      "standard_error": 0.1572445017,
+      "odds_ratio": 1.5139457621,
+      "ci_low": 1.1124065928,
+      "ci_high": 2.0604262734,
+      "p_value": 0.0083540054,
+      "interpretation_ready": true,
+      "bh_q": 0.0334160215
+    },
+    {
+      "model": "retention_usage",
+      "term": "log2_agent",
+      "coefficient": 0.4176320408,
+      "standard_error": 0.1421625575,
+      "odds_ratio": 1.5183618763,
+      "ci_low": 1.1491224316,
+      "ci_high": 2.0062464399,
+      "p_value": 0.003306486,
+      "interpretation_ready": true,
+      "bh_q": 0.0334160215
+    },
+    {
+      "model": "conversion_usage",
+      "term": "log2_optimizer",
+      "coefficient": 0.6118972168,
+      "standard_error": 0.2247570193,
+      "odds_ratio": 1.8439264105,
+      "ci_low": 1.1869435453,
+      "ci_high": 2.8645546124,
+      "p_value": 0.0064793321,
+      "interpretation_ready": true,
+      "bh_q": 0.0334160215
+    },
+    {
+      "model": "conversion_usage",
+      "term": "log2_coach",
+      "coefficient": 0.5155766024,
+      "standard_error": 0.2489209853,
+      "odds_ratio": 1.674603804,
+      "ci_low": 1.0280876603,
+      "ci_high": 2.7276836485,
+      "p_value": 0.0383358101,
+      "interpretation_ready": true,
+      "bh_q": 0.0920059444
+    },
+    {
+      "model": "conversion_usage",
+      "term": "log2_agent",
+      "coefficient": 0.7374392701,
+      "standard_error": 0.3152195886,
+      "odds_ratio": 2.0905752558,
+      "ci_low": 1.1270687425,
+      "ci_high": 3.877762496,
+      "p_value": 0.0193123526,
+      "interpretation_ready": true,
+      "bh_q": 0.0579370579
+    },
+    {
+      "model": "retention_optimizer_errors",
+      "term": "optimizer_error_10pp",
+      "coefficient": 0.0036695202,
+      "standard_error": 0.2712278976,
+      "odds_ratio": 1.0036762611,
+      "ci_low": 0.5898261829,
+      "ci_high": 1.7079032201,
+      "p_value": 0.9892055198,
+      "interpretation_ready": true,
+      "bh_q": 0.9892055198
+    },
+    {
+      "model": "retention_coach_errors",
+      "term": "coach_error_10pp",
+      "coefficient": -0.0990208505,
+      "standard_error": 0.1925573109,
+      "odds_ratio": 0.905723823,
+      "ci_low": 0.6209987283,
+      "ci_high": 1.3209940797,
+      "p_value": 0.6070835553,
+      "interpretation_ready": true,
+      "bh_q": 0.7285002663
+    },
+    {
+      "model": "retention_agent_errors",
+      "term": "agent_error_10pp",
+      "coefficient": 0.0768248389,
+      "standard_error": 0.1407285201,
+      "odds_ratio": 1.0798529116,
+      "ci_low": 0.819551539,
+      "ci_high": 1.4228297494,
+      "p_value": 0.5851291106,
+      "interpretation_ready": true,
+      "bh_q": 0.7285002663
+    },
+    {
+      "model": "conversion_optimizer_errors",
+      "term": "optimizer_error_10pp",
+      "coefficient": 0.2106252996,
+      "standard_error": 0.3894655394,
+      "odds_ratio": 1.2344497196,
+      "ci_low": 0.5753865916,
+      "ci_high": 2.6484213093,
+      "p_value": 0.5886413085,
+      "interpretation_ready": true,
+      "bh_q": 0.7285002663
+    },
+    {
+      "model": "conversion_coach_errors",
+      "term": "coach_error_10pp",
+      "coefficient": 0.2174981937,
+      "standard_error": 0.2211780273,
+      "odds_ratio": 1.2429631843,
+      "ci_low": 0.8057330668,
+      "ci_high": 1.9174557199,
+      "p_value": 0.3254290245,
+      "interpretation_ready": true,
+      "bh_q": 0.5578783277
+    },
+    {
+      "model": "conversion_agent_errors",
+      "term": "agent_error_10pp",
+      "coefficient": -0.052387279,
+      "standard_error": 0.2907954604,
+      "odds_ratio": 0.9489612829,
+      "ci_low": 0.5366893152,
+      "ci_high": 1.677930771,
+      "p_value": 0.8570335232,
+      "interpretation_ready": true,
+      "bh_q": 0.9349456617
+    }
+  ],
+  "correlations": [
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "measurement": "attempts",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.2582016636,
+      "permutation_p": 0.0002,
+      "bh_q": 0.0012
+    },
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "measurement": "errors",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1931768811,
+      "permutation_p": 0.0008,
+      "bh_q": 0.00288
+    },
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "measurement": "error_rate",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.0770375266,
+      "permutation_p": 0.1826,
+      "bh_q": 0.21912
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "measurement": "attempts",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.3123616192,
+      "permutation_p": 0.0002,
+      "bh_q": 0.0012
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "measurement": "errors",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1337969352,
+      "permutation_p": 0.0206,
+      "bh_q": 0.03708
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "measurement": "error_rate",
+      "players": 298,
+      "excluded_zero_attempts": 2,
+      "spearman_rho": 0.0464933024,
+      "permutation_p": 0.4312,
+      "bh_q": 0.4312
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "measurement": "attempts",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.3073302429,
+      "permutation_p": 0.0002,
+      "bh_q": 0.0012
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "measurement": "errors",
+      "players": 300,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.2168718058,
+      "permutation_p": 0.0004,
+      "bh_q": 0.0018
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "measurement": "error_rate",
+      "players": 289,
+      "excluded_zero_attempts": 11,
+      "spearman_rho": 0.1571256631,
+      "permutation_p": 0.0092,
+      "bh_q": 0.0184
+    },
+    {
+      "outcome": "conversion",
+      "feature": "optimizer",
+      "measurement": "attempts",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1870440457,
+      "permutation_p": 0.0032,
+      "bh_q": 0.0082285714
+    },
+    {
+      "outcome": "conversion",
+      "feature": "optimizer",
+      "measurement": "errors",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1816220951,
+      "permutation_p": 0.0062,
+      "bh_q": 0.01395
+    },
+    {
+      "outcome": "conversion",
+      "feature": "optimizer",
+      "measurement": "error_rate",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.0828326949,
+      "permutation_p": 0.2072,
+      "bh_q": 0.2331
+    },
+    {
+      "outcome": "conversion",
+      "feature": "coach",
+      "measurement": "attempts",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1449799014,
+      "permutation_p": 0.03,
+      "bh_q": 0.0490909091
+    },
+    {
+      "outcome": "conversion",
+      "feature": "coach",
+      "measurement": "errors",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1154522574,
+      "permutation_p": 0.0758,
+      "bh_q": 0.1137
+    },
+    {
+      "outcome": "conversion",
+      "feature": "coach",
+      "measurement": "error_rate",
+      "players": 231,
+      "excluded_zero_attempts": 1,
+      "spearman_rho": 0.1108739156,
+      "permutation_p": 0.0944,
+      "bh_q": 0.1307076923
+    },
+    {
+      "outcome": "conversion",
+      "feature": "agent",
+      "measurement": "attempts",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.21420678,
+      "permutation_p": 0.0012,
+      "bh_q": 0.0036
+    },
+    {
+      "outcome": "conversion",
+      "feature": "agent",
+      "measurement": "errors",
+      "players": 232,
+      "excluded_zero_attempts": 0,
+      "spearman_rho": 0.1024861071,
+      "permutation_p": 0.1194,
+      "bh_q": 0.1535142857
+    },
+    {
+      "outcome": "conversion",
+      "feature": "agent",
+      "measurement": "error_rate",
+      "players": 221,
+      "excluded_zero_attempts": 11,
+      "spearman_rho": 0.0691978606,
+      "permutation_p": 0.2972,
+      "bh_q": 0.3146823529
+    }
+  ],
+  "segments": [
+    {
+      "segment": "weekend_preference",
+      "group": "Balanced",
+      "outcome": "retention",
+      "players": 41,
+      "events": 28,
+      "rate_pct": 68.2926829268,
+      "ci_low_pct": 53.0158003557,
+      "ci_high_pct": 80.435386101
+    },
+    {
+      "segment": "weekend_preference",
+      "group": "Weekday",
+      "outcome": "retention",
+      "players": 109,
+      "events": 53,
+      "rate_pct": 48.623853211,
+      "ci_low_pct": 39.4487081052,
+      "ci_high_pct": 57.8926945749
+    },
+    {
+      "segment": "weekend_preference",
+      "group": "Weekend",
+      "outcome": "retention",
+      "players": 150,
+      "events": 99,
+      "rate_pct": 66.0,
+      "ci_low_pct": 58.1042872107,
+      "ci_high_pct": 73.0966649696
+    },
+    {
+      "segment": "weekend_preference",
+      "group": "Balanced",
+      "outcome": "conversion",
+      "players": 32,
+      "events": 6,
+      "rate_pct": 18.75,
+      "ci_low_pct": 8.8895446896,
+      "ci_high_pct": 35.3091552014
+    },
+    {
+      "segment": "weekend_preference",
+      "group": "Weekday",
+      "outcome": "conversion",
+      "players": 88,
+      "events": 5,
+      "rate_pct": 5.6818181818,
+      "ci_low_pct": 2.4511027974,
+      "ci_high_pct": 12.619932657
+    },
+    {
+      "segment": "weekend_preference",
+      "group": "Weekend",
+      "outcome": "conversion",
+      "players": 112,
+      "events": 22,
+      "rate_pct": 19.6428571429,
+      "ci_low_pct": 13.344971267,
+      "ci_high_pct": 27.9541105192
+    },
+    {
+      "segment": "feature_preference",
+      "group": "Balanced",
+      "outcome": "retention",
+      "players": 3,
+      "events": 3,
+      "rate_pct": 100.0,
+      "ci_low_pct": 43.8502968245,
+      "ci_high_pct": 100.0
+    },
+    {
+      "segment": "feature_preference",
+      "group": "agent",
+      "outcome": "retention",
+      "players": 105,
+      "events": 59,
+      "rate_pct": 56.1904761905,
+      "ci_low_pct": 46.6483422558,
+      "ci_high_pct": 65.2956358394
+    },
+    {
+      "segment": "feature_preference",
+      "group": "coach",
+      "outcome": "retention",
+      "players": 146,
+      "events": 88,
+      "rate_pct": 60.2739726027,
+      "ci_low_pct": 52.1712344303,
+      "ci_high_pct": 67.8499267597
+    },
+    {
+      "segment": "feature_preference",
+      "group": "optimizer",
+      "outcome": "retention",
+      "players": 46,
+      "events": 30,
+      "rate_pct": 65.2173913043,
+      "ci_low_pct": 50.7700588421,
+      "ci_high_pct": 77.3190066292
+    },
+    {
+      "segment": "feature_preference",
+      "group": "Balanced",
+      "outcome": "conversion",
+      "players": 2,
+      "events": 1,
+      "rate_pct": 50.0,
+      "ci_low_pct": 9.4531205734,
+      "ci_high_pct": 90.5468794266
+    },
+    {
+      "segment": "feature_preference",
+      "group": "agent",
+      "outcome": "conversion",
+      "players": 89,
+      "events": 14,
+      "rate_pct": 15.7303370787,
+      "ci_low_pct": 9.6078096666,
+      "ci_high_pct": 24.6887850069
+    },
+    {
+      "segment": "feature_preference",
+      "group": "coach",
+      "outcome": "conversion",
+      "players": 122,
+      "events": 16,
+      "rate_pct": 13.1147540984,
+      "ci_low_pct": 8.236410692,
+      "ci_high_pct": 20.2450286974
+    },
+    {
+      "segment": "feature_preference",
+      "group": "optimizer",
+      "outcome": "conversion",
+      "players": 19,
+      "events": 2,
+      "rate_pct": 10.5263157895,
+      "ci_low_pct": 2.9358560299,
+      "ci_high_pct": 31.3940827111
+    }
+  ],
+  "segment_regressions": [
+    {
+      "model": "retention_weekend_preference",
+      "term": "C(weekend_preference, Treatment(reference='Weekday'))[T.Balanced]",
+      "coefficient": -0.8231758338,
+      "standard_error": 0.4987670054,
+      "odds_ratio": 0.4390351355,
+      "ci_low": 0.1651764139,
+      "ci_high": 1.1669453625,
+      "p_value": 0.0988567384,
+      "interpretation_ready": true,
+      "bh_q": 0.2899892588
+    },
+    {
+      "model": "retention_weekend_preference",
+      "term": "C(weekend_preference, Treatment(reference='Weekday'))[T.Weekend]",
+      "coefficient": 0.4457143609,
+      "standard_error": 0.2779018696,
+      "odds_ratio": 1.5616053473,
+      "ci_low": 0.9057759541,
+      "ci_high": 2.6922896878,
+      "p_value": 0.1087459721,
+      "interpretation_ready": true,
+      "bh_q": 0.2899892588
+    },
+    {
+      "model": "conversion_weekend_preference",
+      "term": "C(weekend_preference, Treatment(reference='Weekday'))[T.Balanced]",
+      "coefficient": 0.4212362818,
+      "standard_error": 0.7258335915,
+      "odds_ratio": 1.5238442926,
+      "ci_low": 0.3673752711,
+      "ci_high": 6.3207886073,
+      "p_value": 0.5616797704,
+      "interpretation_ready": true,
+      "bh_q": 0.7035271283
+    },
+    {
+      "model": "conversion_weekend_preference",
+      "term": "C(weekend_preference, Treatment(reference='Weekday'))[T.Weekend]",
+      "coefficient": 1.1970372475,
+      "standard_error": 0.5230003139,
+      "odds_ratio": 3.3102947956,
+      "ci_low": 1.187648698,
+      "ci_high": 9.2266775958,
+      "p_value": 0.022091628,
+      "interpretation_ready": true,
+      "bh_q": 0.176733024
+    },
+    {
+      "model": "retention_feature_preference",
+      "term": "C(feature_preference)[T.coach]",
+      "coefficient": 0.1162205739,
+      "standard_error": 0.2714752466,
+      "odds_ratio": 1.123243603,
+      "ci_low": 0.6597718852,
+      "ci_high": 1.912291536,
+      "p_value": 0.6685728975,
+      "interpretation_ready": true,
+      "bh_q": 0.7035271283
+    },
+    {
+      "model": "retention_feature_preference",
+      "term": "C(feature_preference)[T.optimizer]",
+      "coefficient": 0.1538416464,
+      "standard_error": 0.4042469232,
+      "odds_ratio": 1.1663061834,
+      "ci_low": 0.5281009798,
+      "ci_high": 2.5757765376,
+      "p_value": 0.7035271283,
+      "interpretation_ready": true,
+      "bh_q": 0.7035271283
+    },
+    {
+      "model": "conversion_feature_preference",
+      "term": "C(feature_preference)[T.coach]",
+      "coefficient": -0.2281732343,
+      "standard_error": 0.4041544278,
+      "odds_ratio": 0.7959863557,
+      "ci_low": 0.3604862887,
+      "ci_high": 1.757609924,
+      "p_value": 0.5723666642,
+      "interpretation_ready": true,
+      "bh_q": 0.7035271283
+    },
+    {
+      "model": "conversion_feature_preference",
+      "term": "C(feature_preference)[T.optimizer]",
+      "coefficient": -0.5176699819,
+      "standard_error": 0.7981978731,
+      "odds_ratio": 0.5959074067,
+      "ci_low": 0.1246670038,
+      "ci_high": 2.8484332373,
+      "p_value": 0.5166302941,
+      "interpretation_ready": true,
+      "bh_q": 0.7035271283
+    }
+  ],
+  "timing": [
+    {
+      "start_day": 1,
+      "end_day": 6,
+      "days_in_window": 6,
+      "free_at_start": 232,
+      "conversions": 0,
+      "conditional_conversion_pct": 0.0,
+      "ci_low_pct": 0.0,
+      "ci_high_pct": 1.6288310121
+    },
+    {
+      "start_day": 7,
+      "end_day": 13,
+      "days_in_window": 7,
+      "free_at_start": 232,
+      "conversions": 11,
+      "conditional_conversion_pct": 4.7413793103,
+      "ci_low_pct": 2.6678403604,
+      "ci_high_pct": 8.2892911592
+    },
+    {
+      "start_day": 14,
+      "end_day": 20,
+      "days_in_window": 7,
+      "free_at_start": 221,
+      "conversions": 5,
+      "conditional_conversion_pct": 2.2624434389,
+      "ci_low_pct": 0.9701619788,
+      "ci_high_pct": 5.1859352523
+    },
+    {
+      "start_day": 21,
+      "end_day": 27,
+      "days_in_window": 7,
+      "free_at_start": 216,
+      "conversions": 2,
+      "conditional_conversion_pct": 0.9259259259,
+      "ci_low_pct": 0.2542906335,
+      "ci_high_pct": 3.3125792657
+    },
+    {
+      "start_day": 28,
+      "end_day": 34,
+      "days_in_window": 7,
+      "free_at_start": 214,
+      "conversions": 5,
+      "conditional_conversion_pct": 2.3364485981,
+      "ci_low_pct": 1.0020251389,
+      "ci_high_pct": 5.3518888018
+    },
+    {
+      "start_day": 35,
+      "end_day": 41,
+      "days_in_window": 7,
+      "free_at_start": 209,
+      "conversions": 5,
+      "conditional_conversion_pct": 2.3923444976,
+      "ci_low_pct": 1.0260967614,
+      "ci_high_pct": 5.4770811896
+    },
+    {
+      "start_day": 42,
+      "end_day": 48,
+      "days_in_window": 7,
+      "free_at_start": 204,
+      "conversions": 5,
+      "conditional_conversion_pct": 2.4509803922,
+      "ci_low_pct": 1.0513534216,
+      "ci_high_pct": 5.6082701681
+    },
+    {
+      "start_day": 49,
+      "end_day": 55,
+      "days_in_window": 7,
+      "free_at_start": 199,
+      "conversions": 0,
+      "conditional_conversion_pct": 0.0,
+      "ci_low_pct": 1.734723476e-16,
+      "ci_high_pct": 1.8938233057
+    },
+    {
+      "start_day": 56,
+      "end_day": 59,
+      "days_in_window": 4,
+      "free_at_start": 199,
+      "conversions": 0,
+      "conditional_conversion_pct": 0.0,
+      "ci_low_pct": 1.734723476e-16,
+      "ci_high_pct": 1.8938233057
+    }
+  ],
+  "journey": [
+    {
+      "relative_day": -7,
+      "eligible_converters": 33,
+      "active_converters": 25,
+      "optimizer_attempts_per_active_day": 11.6,
+      "coach_attempts_per_active_day": 5.36,
+      "agent_attempts_per_active_day": 2.44,
+      "active_pct": 75.7575757576
+    },
+    {
+      "relative_day": -6,
+      "eligible_converters": 33,
+      "active_converters": 26,
+      "optimizer_attempts_per_active_day": 14.0,
+      "coach_attempts_per_active_day": 5.3846153846,
+      "agent_attempts_per_active_day": 2.4230769231,
+      "active_pct": 78.7878787879
+    },
+    {
+      "relative_day": -5,
+      "eligible_converters": 33,
+      "active_converters": 22,
+      "optimizer_attempts_per_active_day": 13.0909090909,
+      "coach_attempts_per_active_day": 4.9090909091,
+      "agent_attempts_per_active_day": 2.7272727273,
+      "active_pct": 66.6666666667
+    },
+    {
+      "relative_day": -4,
+      "eligible_converters": 33,
+      "active_converters": 25,
+      "optimizer_attempts_per_active_day": 12.44,
+      "coach_attempts_per_active_day": 5.36,
+      "agent_attempts_per_active_day": 2.28,
+      "active_pct": 75.7575757576
+    },
+    {
+      "relative_day": -3,
+      "eligible_converters": 33,
+      "active_converters": 23,
+      "optimizer_attempts_per_active_day": 9.9565217391,
+      "coach_attempts_per_active_day": 5.1739130435,
+      "agent_attempts_per_active_day": 2.6086956522,
+      "active_pct": 69.696969697
+    },
+    {
+      "relative_day": -2,
+      "eligible_converters": 33,
+      "active_converters": 28,
+      "optimizer_attempts_per_active_day": 14.7142857143,
+      "coach_attempts_per_active_day": 5.2857142857,
+      "agent_attempts_per_active_day": 2.1428571429,
+      "active_pct": 84.8484848485
+    },
+    {
+      "relative_day": -1,
+      "eligible_converters": 33,
+      "active_converters": 28,
+      "optimizer_attempts_per_active_day": 17.1071428571,
+      "coach_attempts_per_active_day": 4.8928571429,
+      "agent_attempts_per_active_day": 1.9285714286,
+      "active_pct": 84.8484848485
+    }
+  ],
+  "hazard": [
+    {
+      "model": "daily_conversion_hazard",
+      "term": "Intercept",
+      "coefficient": -7.7210929769,
+      "standard_error": 1.4296935411,
+      "odds_ratio": 0.0004433757,
+      "ci_low": 2.69039e-05,
+      "ci_high": 0.0073068346,
+      "p_value": 6.64e-08,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log_tenure_day",
+      "coefficient": -0.73656362,
+      "standard_error": 0.2640858097,
+      "odds_ratio": 0.4787562805,
+      "ci_low": 0.2853147575,
+      "ci_high": 0.8033498797,
+      "p_value": 0.0052853575,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_optimizer",
+      "coefficient": 0.4997754913,
+      "standard_error": 0.1649906821,
+      "odds_ratio": 1.64835116,
+      "ci_low": 1.1929147674,
+      "ci_high": 2.2776661175,
+      "p_value": 0.0024527257,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_coach",
+      "coefficient": 0.4386442404,
+      "standard_error": 0.2231396319,
+      "odds_ratio": 1.5506035471,
+      "ci_low": 1.0012994418,
+      "ci_high": 2.4012510743,
+      "p_value": 0.0493236071,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_agent",
+      "coefficient": 0.6779282757,
+      "standard_error": 0.2871480114,
+      "odds_ratio": 1.9697926348,
+      "ci_low": 1.1220176246,
+      "ci_high": 3.4581301926,
+      "p_value": 0.0182305541,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "active_days",
+      "coefficient": -0.5191365185,
+      "standard_error": 0.2747992268,
+      "odds_ratio": 0.5950341272,
+      "ci_low": 0.3472420798,
+      "ci_high": 1.0196506504,
+      "p_value": 0.0588719472,
+      "interpretation_ready": true
+    }
+  ],
+  "sensitivity": [
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "specification": "retention_usage",
+      "odds_ratio": 1.2914203983,
+      "ci_low": 0.9451474907,
+      "ci_high": 1.7645570258
+    },
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "specification": "retention_optimizer_single_usage",
+      "odds_ratio": 1.1033715752,
+      "ci_low": 0.8223717304,
+      "ci_high": 1.4803875036
+    },
+    {
+      "outcome": "retention",
+      "feature": "optimizer",
+      "specification": "retention_usage_initial_free_only",
+      "odds_ratio": 1.1734800016,
+      "ci_low": 0.8271984054,
+      "ci_high": 1.6647219158
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "specification": "retention_usage",
+      "odds_ratio": 1.5139457621,
+      "ci_low": 1.1124065928,
+      "ci_high": 2.0604262734
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "specification": "retention_coach_single_usage",
+      "odds_ratio": 1.3729615355,
+      "ci_low": 1.0335130918,
+      "ci_high": 1.8238988871
+    },
+    {
+      "outcome": "retention",
+      "feature": "coach",
+      "specification": "retention_usage_initial_free_only",
+      "odds_ratio": 1.6057037744,
+      "ci_low": 1.1255816848,
+      "ci_high": 2.2906241688
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "specification": "retention_usage",
+      "odds_ratio": 1.5183618763,
+      "ci_low": 1.1491224316,
+      "ci_high": 2.0062464399
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "specification": "retention_agent_single_usage",
+      "odds_ratio": 1.3758136387,
+      "ci_low": 1.0574582661,
+      "ci_high": 1.7900121726
+    },
+    {
+      "outcome": "retention",
+      "feature": "agent",
+      "specification": "retention_usage_initial_free_only",
+      "odds_ratio": 1.6513489212,
+      "ci_low": 1.2082440539,
+      "ci_high": 2.2569556627
+    },
+    {
+      "outcome": "conversion",
+      "feature": "optimizer",
+      "specification": "conversion_usage",
+      "odds_ratio": 1.8439264105,
+      "ci_low": 1.1869435453,
+      "ci_high": 2.8645546124
+    },
+    {
+      "outcome": "conversion",
+      "feature": "optimizer",
+      "specification": "conversion_optimizer_single_usage",
+      "odds_ratio": 1.4403507004,
+      "ci_low": 1.0159866588,
+      "ci_high": 2.0419659277
+    },
+    {
+      "outcome": "conversion",
+      "feature": "coach",
+      "specification": "conversion_usage",
+      "odds_ratio": 1.674603804,
+      "ci_low": 1.0280876603,
+      "ci_high": 2.7276836485
+    },
+    {
+      "outcome": "conversion",
+      "feature": "coach",
+      "specification": "conversion_coach_single_usage",
+      "odds_ratio": 1.2852890542,
+      "ci_low": 0.8733901493,
+      "ci_high": 1.8914433076
+    },
+    {
+      "outcome": "conversion",
+      "feature": "agent",
+      "specification": "conversion_usage",
+      "odds_ratio": 2.0905752558,
+      "ci_low": 1.1270687425,
+      "ci_high": 3.877762496
+    },
+    {
+      "outcome": "conversion",
+      "feature": "agent",
+      "specification": "conversion_agent_single_usage",
+      "odds_ratio": 1.5493788068,
+      "ci_low": 1.0016492633,
+      "ci_high": 2.3966220261
+    }
+  ],
+  "hazard_sensitivity": [
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_optimizer",
+      "coefficient": 0.4997754913,
+      "standard_error": 0.1649906821,
+      "odds_ratio": 1.64835116,
+      "ci_low": 1.1929147674,
+      "ci_high": 2.2776661175,
+      "p_value": 0.0024527257,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_coach",
+      "coefficient": 0.4386442404,
+      "standard_error": 0.2231396319,
+      "odds_ratio": 1.5506035471,
+      "ci_low": 1.0012994418,
+      "ci_high": 2.4012510743,
+      "p_value": 0.0493236071,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "term": "log2_agent",
+      "coefficient": 0.6779282757,
+      "standard_error": 0.2871480114,
+      "odds_ratio": 1.9697926348,
+      "ci_low": 1.1220176246,
+      "ci_high": 3.4581301926,
+      "p_value": 0.0182305541,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard_quadratic_time",
+      "term": "log2_optimizer",
+      "coefficient": 0.4980864431,
+      "standard_error": 0.1644056897,
+      "odds_ratio": 1.6455693653,
+      "ci_low": 1.1922678054,
+      "ci_high": 2.2712166878,
+      "p_value": 0.002448632,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard_quadratic_time",
+      "term": "log2_coach",
+      "coefficient": 0.4368327532,
+      "standard_error": 0.2226159709,
+      "odds_ratio": 1.5477971912,
+      "ci_low": 1.0005135996,
+      "ci_high": 2.3944463586,
+      "p_value": 0.0497309995,
+      "interpretation_ready": true
+    },
+    {
+      "model": "daily_conversion_hazard_quadratic_time",
+      "term": "log2_agent",
+      "coefficient": 0.6781036912,
+      "standard_error": 0.2870527689,
+      "odds_ratio": 1.9701381972,
+      "ci_low": 1.1224239664,
+      "ci_high": 3.4580912671,
+      "p_value": 0.01816212,
+      "interpretation_ready": true
+    }
+  ],
+  "diagnostics": [
+    {
+      "model": "retention_usage",
+      "formula": "retained ~ log2_optimizer + log2_coach + log2_agent + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 6,
+      "events_per_slope": 36.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 47.5255894923,
+      "max_vif": 5.2801899799,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.2296711185
+    },
+    {
+      "model": "conversion_usage",
+      "formula": "later_conversion ~ log2_optimizer + log2_coach + log2_agent + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 5,
+      "events_per_slope": 8.25,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 46.8723846854,
+      "max_vif": 5.2547754712,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 6.736130068
+    },
+    {
+      "model": "retention_optimizer_single_usage",
+      "formula": "retained ~ log2_optimizer + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 4,
+      "events_per_slope": 60.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 33.1312940948,
+      "max_vif": 2.1588196882,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 1.9256838841
+    },
+    {
+      "model": "retention_coach_single_usage",
+      "formula": "retained ~ log2_coach + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 4,
+      "events_per_slope": 60.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 23.2837037187,
+      "max_vif": 2.0125969815,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 2.1412633159
+    },
+    {
+      "model": "retention_agent_single_usage",
+      "formula": "retained ~ log2_agent + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 4,
+      "events_per_slope": 60.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 19.0445243047,
+      "max_vif": 1.740831445,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 1.8662474897
+    },
+    {
+      "model": "retention_usage_initial_free_only",
+      "formula": "retained ~ log2_optimizer + log2_coach + log2_agent + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 136,
+      "parameters": 5,
+      "events_per_slope": 34.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 46.8723846854,
+      "max_vif": 5.2547754712,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.1421056218
+    },
+    {
+      "model": "conversion_optimizer_single_usage",
+      "formula": "later_conversion ~ log2_optimizer + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 3,
+      "events_per_slope": 16.5,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 32.585803579,
+      "max_vif": 2.1380635298,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 4.4803008263
+    },
+    {
+      "model": "conversion_coach_single_usage",
+      "formula": "later_conversion ~ log2_coach + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 3,
+      "events_per_slope": 16.5,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 22.6062832087,
+      "max_vif": 2.0212532987,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.8074923721
+    },
+    {
+      "model": "conversion_agent_single_usage",
+      "formula": "later_conversion ~ log2_agent + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 3,
+      "events_per_slope": 16.5,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 18.2663641147,
+      "max_vif": 1.6979728691,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.6986209541
+    },
+    {
+      "model": "retention_optimizer_errors",
+      "formula": "retained ~ optimizer_error_10pp + log2_optimizer + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 5,
+      "events_per_slope": 45.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 34.3249116594,
+      "max_vif": 2.1589445213,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 1.9271430048
+    },
+    {
+      "model": "retention_coach_errors",
+      "formula": "retained ~ coach_error_10pp + log2_coach + active_days + initial_paid",
+      "rows": 298,
+      "players": 298,
+      "events": 180,
+      "parameters": 5,
+      "events_per_slope": 45.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 24.3621314945,
+      "max_vif": 1.9727609264,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 2.0443794613
+    },
+    {
+      "model": "retention_agent_errors",
+      "formula": "retained ~ agent_error_10pp + log2_agent + active_days + initial_paid",
+      "rows": 289,
+      "players": 289,
+      "events": 178,
+      "parameters": 5,
+      "events_per_slope": 44.5,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 20.7158958215,
+      "max_vif": 1.7840141235,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 1.7702481798
+    },
+    {
+      "model": "conversion_optimizer_errors",
+      "formula": "later_conversion ~ optimizer_error_10pp + log2_optimizer + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 4,
+      "events_per_slope": 11.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 34.0697355693,
+      "max_vif": 2.1456035478,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 4.5837146346
+    },
+    {
+      "model": "conversion_coach_errors",
+      "formula": "later_conversion ~ coach_error_10pp + log2_coach + active_days",
+      "rows": 231,
+      "players": 231,
+      "events": 33,
+      "parameters": 4,
+      "events_per_slope": 11.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 23.4640617452,
+      "max_vif": 1.9907852517,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.9146084494
+    },
+    {
+      "model": "conversion_agent_errors",
+      "formula": "later_conversion ~ agent_error_10pp + log2_agent + active_days",
+      "rows": 221,
+      "players": 221,
+      "events": 32,
+      "parameters": 4,
+      "events_per_slope": 10.6666666667,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 20.0886142279,
+      "max_vif": 1.7415103981,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.971373346
+    },
+    {
+      "model": "retention_weekend_preference",
+      "formula": "retained ~ C(weekend_preference, Treatment(reference='Weekday')) + active_days + initial_paid",
+      "rows": 300,
+      "players": 300,
+      "events": 180,
+      "parameters": 5,
+      "events_per_slope": 45.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 22.3478072634,
+      "max_vif": 1.8222498503,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 2.2752889001
+    },
+    {
+      "model": "conversion_weekend_preference",
+      "formula": "later_conversion ~ C(weekend_preference, Treatment(reference='Weekday')) + active_days",
+      "rows": 232,
+      "players": 232,
+      "events": 33,
+      "parameters": 4,
+      "events_per_slope": 11.0,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 22.1689031823,
+      "max_vif": 1.8311689469,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 4.1746070064
+    },
+    {
+      "model": "retention_feature_preference",
+      "formula": "retained ~ C(feature_preference) + active_days + initial_paid",
+      "rows": 297,
+      "players": 297,
+      "events": 177,
+      "parameters": 5,
+      "events_per_slope": 44.25,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 19.3684300584,
+      "max_vif": 1.3867328015,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 1.7835742898
+    },
+    {
+      "model": "conversion_feature_preference",
+      "formula": "later_conversion ~ C(feature_preference) + active_days",
+      "rows": 230,
+      "players": 230,
+      "events": 32,
+      "parameters": 4,
+      "events_per_slope": 10.6666666667,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 20.605393324,
+      "max_vif": 1.1149481593,
+      "warnings": null,
+      "covariance": "HC1",
+      "max_abs_coefficient": 3.387584106
+    },
+    {
+      "model": "daily_conversion_hazard",
+      "formula": "converted_today ~ log_tenure_day + log2_optimizer + log2_coach + log2_agent + active_days",
+      "rows": 11162,
+      "players": 232,
+      "events": 33,
+      "parameters": 6,
+      "events_per_slope": 6.6,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 74.5634530136,
+      "max_vif": 5.3881290661,
+      "warnings": null,
+      "covariance": "player-clustered",
+      "max_abs_coefficient": 7.7210929769
+    },
+    {
+      "model": "daily_conversion_hazard_quadratic_time",
+      "formula": "converted_today ~ log_tenure_centered + log2_optimizer + log2_coach + log2_agent + active_days + log_tenure_squared",
+      "rows": 11162,
+      "players": 232,
+      "events": 33,
+      "parameters": 7,
+      "events_per_slope": 5.5,
+      "converged": true,
+      "full_rank": true,
+      "condition_number": 47.035944546,
+      "max_vif": 5.3882732372,
+      "warnings": null,
+      "covariance": "player-clustered",
+      "max_abs_coefficient": 10.065819662
+    }
+  ],
+  "scope": [
+    {
+      "outcome": "retention",
+      "segment": "weekend_preference",
+      "total_players": 300,
+      "regression_players": 300,
+      "excluded_sparse_players": 0,
+      "included_groups": "Balanced, Weekday, Weekend",
+      "reason": "Diagnostic revision: sparse categories (<10 players) descriptive only"
+    },
+    {
+      "outcome": "conversion",
+      "segment": "weekend_preference",
+      "total_players": 232,
+      "regression_players": 232,
+      "excluded_sparse_players": 0,
+      "included_groups": "Balanced, Weekday, Weekend",
+      "reason": "Diagnostic revision: sparse categories (<10 players) descriptive only"
+    },
+    {
+      "outcome": "retention",
+      "segment": "feature_preference",
+      "total_players": 300,
+      "regression_players": 297,
+      "excluded_sparse_players": 3,
+      "included_groups": "agent, coach, optimizer",
+      "reason": "Diagnostic revision: sparse categories (<10 players) descriptive only"
+    },
+    {
+      "outcome": "conversion",
+      "segment": "feature_preference",
+      "total_players": 232,
+      "regression_players": 230,
+      "excluded_sparse_players": 2,
+      "included_groups": "agent, coach, optimizer",
+      "reason": "Diagnostic revision: sparse categories (<10 players) descriptive only"
+    }
+  ],
+  "source_paths": {
+    "accounts": "mandatory_questions/tables/q1_new_accounts.csv",
+    "daily_retention": "mandatory_questions/tables/q2_daily_retention.csv",
+    "weekly_retention": "mandatory_questions/tables/q2_weekly_retention.csv",
+    "conversion": "mandatory_questions/tables/q3_free_to_paid_conversion.csv",
+    "cancellations": "mandatory_questions/tables/q4_paid_cancellations.csv",
+    "cancellation_groups": "mandatory_questions/tables/q4_cancellations_by_starting_plan.csv",
+    "primary": "additional_analysis/tables/primary_associations.csv",
+    "correlations": "additional_analysis/tables/feature_outcome_correlations.csv",
+    "segments": "additional_analysis/tables/segment_outcomes.csv",
+    "segment_regressions": "additional_analysis/tables/segment_regressions.csv",
+    "timing": "additional_analysis/tables/conversion_timing_windows.csv",
+    "journey": "additional_analysis/tables/preconversion_journey.csv",
+    "hazard": "additional_analysis/tables/conversion_hazard_regression.csv",
+    "sensitivity": "additional_analysis/tables/usage_sensitivity.csv",
+    "hazard_sensitivity": "additional_analysis/tables/hazard_sensitivity.csv",
+    "diagnostics": "additional_analysis/checks/model_diagnostics.csv",
+    "scope": "additional_analysis/checks/segment_regression_scope.csv"
+  },
+  "provenance": {
+    "retrieved": "2026-11-05",
+    "commit": "d723165e32eea097828e159dadaa9c310ad37633",
+    "dataset": "Synthetic example data",
+    "repository": "https://github.com/vejadu/InterviewCase-Gaming-PC-App"
+  },
+  "analysis_manifest": {
+    "analysis_plan": {
+      "predictor_days": [
+        0,
+        6
+      ],
+      "retention_days": [
+        28,
+        34
+      ],
+      "conversion_days": [
+        7,
+        59
+      ],
+      "conversion_population": "Initially Free, not converted by day6",
+      "usage": "First-week attempts = successes + errors, log2(1 + attempts)",
+      "errors": "First-week errors / attempts, modeled per 10 percentage points; undefined for zero attempts",
+      "controls": "First-week active days; initial Paid plan for retention",
+      "segments": "Weekend activity per available day; dominant feature relative to daily plan limits",
+      "timing": "Daily at-risk Free players until first upgrade or day59; first-week predictors only",
+      "uncertainty": "HC1 at player level; clustered by player for repeated hazard rows",
+      "multiplicity": "BH separately over 18 raw correlations and 12 primary feature slopes",
+      "permutations": 4999,
+      "seed": 20261105
+    },
+    "input_sha256": "2efe179b13bd3dba1cbc6817e40395db4f544f76807f82001156c1d0da686067",
+    "versions": {
+      "statsmodels": "0.15.0",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "numpy": "2.5.4",
+      "matplotlib": "3.11.2",
+      "seaborn": "0.13.2"
+    },
+    "retention_players": 300,
+    "retention_events": 180,
+    "conversion_players": 232,
+    "conversion_events": 33,
+    "models_fitted": 21,
+    "models_with_warnings": 0,
+    "all_models_converged": true,
+    "independent_checks": "Source features/outcomes/hazards, rank correlations, SciPy primary-model fits and source hash passed",
+    "figure_review": "Pending visual inspection of rendered PNGs"
+  }
+}

@@ -1,0 +1,12 @@
+check,passed
+q1_starting_plan_counts,True
+q2_all_daily_counts,True
+q2_all_weekly_counts,True
+q2_fixed_day0_denominators,True
+q2_all_daily_percentages,True
+q2_all_weekly_percentages,True
+q3_conversion_count_and_denominator,True
+q3_conversion_percentage,True
+q4_explicit_cancellations,True
+q4_paid_population,True
+source_unchanged,True

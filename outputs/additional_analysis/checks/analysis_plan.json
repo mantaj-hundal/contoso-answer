@@ -1,0 +1,24 @@
+{
+  "predictor_days": [
+    0,
+    6
+  ],
+  "retention_days": [
+    28,
+    34
+  ],
+  "conversion_days": [
+    7,
+    59
+  ],
+  "conversion_population": "Initially Free, not converted by day6",
+  "usage": "First-week attempts = successes + errors, log2(1 + attempts)",
+  "errors": "First-week errors / attempts, modeled per 10 percentage points; undefined for zero attempts",
+  "controls": "First-week active days; initial Paid plan for retention",
+  "segments": "Weekend activity per available day; dominant feature relative to daily plan limits",
+  "timing": "Daily at-risk Free players until first upgrade or day59; first-week predictors only",
+  "uncertainty": "HC1 at player level; clustered by player for repeated hazard rows",
+  "multiplicity": "BH separately over 18 raw correlations and 12 primary feature slopes",
+  "permutations": 4999,
+  "seed": 20261105
+}

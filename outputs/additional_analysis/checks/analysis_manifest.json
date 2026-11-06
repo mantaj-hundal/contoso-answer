@@ -1,0 +1,44 @@
+{
+  "analysis_plan": {
+    "predictor_days": [
+      0,
+      6
+    ],
+    "retention_days": [
+      28,
+      34
+    ],
+    "conversion_days": [
+      7,
+      59
+    ],
+    "conversion_population": "Initially Free, not converted by day6",
+    "usage": "First-week attempts = successes + errors, log2(1 + attempts)",
+    "errors": "First-week errors / attempts, modeled per 10 percentage points; undefined for zero attempts",
+    "controls": "First-week active days; initial Paid plan for retention",
+    "segments": "Weekend activity per available day; dominant feature relative to daily plan limits",
+    "timing": "Daily at-risk Free players until first upgrade or day59; first-week predictors only",
+    "uncertainty": "HC1 at player level; clustered by player for repeated hazard rows",
+    "multiplicity": "BH separately over 18 raw correlations and 12 primary feature slopes",
+    "permutations": 4999,
+    "seed": 20261105
+  },
+  "input_sha256": "2efe179b13bd3dba1cbc6817e40395db4f544f76807f82001156c1d0da686067",
+  "versions": {
+    "statsmodels": "0.15.0",
+    "scipy": "1.18.1",
+    "pandas": "3.1.0",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2"
+  },
+  "retention_players": 300,
+  "retention_events": 180,
+  "conversion_players": 232,
+  "conversion_events": 33,
+  "models_fitted": 21,
+  "models_with_warnings": 0,
+  "all_models_converged": true,
+  "independent_checks": "Source features/outcomes/hazards, rank correlations, SciPy primary-model fits and source hash passed",
+  "figure_review": "Pending visual inspection of rendered PNGs"
+}

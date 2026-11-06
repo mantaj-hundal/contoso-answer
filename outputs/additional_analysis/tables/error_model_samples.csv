@@ -1,0 +1,7 @@
+outcome,feature,eligible_players,events,excluded_zero_attempts
+retention,optimizer,300,180,0
+retention,coach,298,180,2
+retention,agent,289,178,11
+conversion,optimizer,232,33,0
+conversion,coach,231,33,1
+conversion,agent,221,32,11

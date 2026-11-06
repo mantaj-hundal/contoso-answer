@@ -1,0 +1,5 @@
+outcome,segment,total_players,regression_players,excluded_sparse_players,included_groups,reason
+retention,weekend_preference,300,300,0,"Balanced, Weekday, Weekend",Diagnostic revision: sparse categories (<10 players) descriptive only
+conversion,weekend_preference,232,232,0,"Balanced, Weekday, Weekend",Diagnostic revision: sparse categories (<10 players) descriptive only
+retention,feature_preference,300,297,3,"agent, coach, optimizer",Diagnostic revision: sparse categories (<10 players) descriptive only
+conversion,feature_preference,232,230,2,"agent, coach, optimizer",Diagnostic revision: sparse categories (<10 players) descriptive only

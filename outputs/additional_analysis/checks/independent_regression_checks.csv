@@ -1,0 +1,3 @@
+model,max_abs_coefficient_difference,gradient_norm,optimizer_message
+retention_usage,3.556674244009628e-08,1.2000847290712977e-06,Optimization terminated successfully.
+conversion_usage,1.2227264423181339e-08,6.885397055744134e-07,Optimization terminated successfully.

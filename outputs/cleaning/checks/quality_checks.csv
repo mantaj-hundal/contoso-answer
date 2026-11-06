@@ -1,0 +1,30 @@
+check,description,violating_rows,violating_players,passed
+required_fields_present,All supplied fields must be present,0.0,0.0,True
+valid_dates,Dates parse under the stated US format,0.0,0.0,True
+unique_player_day,One row per player per activity date,0.0,0.0,True
+no_exact_duplicates,No identical input records,0.0,0.0,True
+valid_plans,Only documented plans,0.0,0.0,True
+valid_status,Only documented billing statuses,0.0,0.0,True
+cohort_dates,Account creation dates are in assignment window,0.0,0.0,True
+stable_cohort,Each player has one cohort date,0.0,0.0,True
+tenure_matches_source,Calendar date difference equals supplied tenure,0.0,0.0,True
+tenure_in_window,Only days 0 through 59,0.0,0.0,True
+weekday_consistent,Supplied weekday agrees with date,0.0,0.0,True
+weekend_consistent,Supplied weekend flag agrees with date,0.0,0.0,True
+one_day0_per_player,Exactly one day-0 row for every observed player,0.0,0.0,True
+documented_cohort_size,Source describes 300 synthetic players,,,True
+documented_daily_cohorts,Source describes 60 new players per start date,,,True
+valid_count_AI_AutoComplete_Success,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+valid_count_AI_Chat_Success,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+valid_count_AI_Agent_Success,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+valid_count_AI_AutoComplete_Error,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+valid_count_AI_Chat_Error,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+valid_count_AI_Agent_Error,Feature counts must be nonnegative whole numbers,0.0,0.0,True
+daily_limit_AutoComplete,Successes plus errors respect end-of-day plan limit,0.0,0.0,True
+daily_limit_Chat,Successes plus errors respect end-of-day plan limit,0.0,0.0,True
+daily_limit_Agent,Successes plus errors respect end-of-day plan limit,0.0,0.0,True
+no_paid_to_free,No undocumented Paid-to-Free reversal,0.0,0.0,True
+cancellation_paid_only,Cancellation must occur on a Paid record,0.0,0.0,True
+single_cancellation,At most one cancellation record per player,0.0,0.0,True
+no_post_cancellation_activity,No observed rows after recorded cancellation,0.0,0.0,True
+date_not_beyond_cutoff,No records beyond documented source end,0.0,0.0,True
